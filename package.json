@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jonatasoc/nodejs_studies/issues"
   },
-  "homepage": "https://github.com/jonatasoc/nodejs_studies#readme"
+  "homepage": "https://github.com/jonatasoc/nodejs_studies#readme",
+  "dependencies": {
+    "nodemailer": "^6.4.14"
+  }
 }
